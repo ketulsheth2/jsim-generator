@@ -1,0 +1,48 @@
+{
+    "applications": {
+      "business": [
+        "Okta",
+        "Slack",
+        "Outlook",
+        "Gmail",
+        "Salesforce",
+        "Zoom",
+        "Dropbox",
+        "Box"
+      ],
+      "social": [
+        "Facebook",
+        "Instagram",
+        "Twitter",
+        "TikTok",
+        "Snapchat",
+        "Whatsapp",
+        "Youtube",
+        "Telegram"
+      ]
+    },
+    "user_events": [
+      "User Authorization Successful",
+      "User Authorization Unsuccessful"
+    ],
+    "dhcp_status": [
+      "DHCP_READY",
+      "DHCP_TAKEOVER_READY",
+      "DHCP_TAKEOVER_IN_PROGRESS"
+    ],
+    "log_severity": [
+      "Info",
+      "Error",
+      "Debug",
+      "Critical"
+    ],
+    "anomalies": [
+      "Heartbeat Received",
+      "Malware"
+    ],
+    "user_agent": [
+      "Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 Pro MIUI/V12.5.1.0.QFHINXM)",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15"
+    ]
+  }

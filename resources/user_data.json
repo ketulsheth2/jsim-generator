@@ -1,0 +1,339 @@
+[{
+    "ghost_id": "c3:25:a9:22:5d:0d",
+    "devices": {
+        "iPad Pro": "75:5b:dc:ae:fa:90",
+        "iPad": "e3:a5:eb:24:83:0c",
+        "iPhone": "e6:72:af:a6:29:e4"
+    },
+    "username": "Mason Mount",
+    "email": "mason@outlook.com",
+    "geolocation": {
+        "query": "69.162.81.155",
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "TX",
+        "regionName": "Texas",
+        "city": "Dallas",
+        "zip": "75202",
+        "lat": 32.7782,
+        "lon": -96.7985,
+        "timezone": "America/Chicago",
+        "isp": "Limestone Networks",
+        "org": "Vadim Mazo",
+        "as": "AS46475 Limestone Networks, Inc."
+    }
+},
+{
+    "ghost_id": "32:cd:c3:a1:00:30",
+    "devices": {
+        "iPad Pro": "59:64:55:8a:14:65",
+        "iPad": "04:a9:5e:f4:b9:0b",
+        "iPhone": "a3:32:33:5c:4b:bc"
+    },
+    "username": "Eden Hazard",
+    "email": "ehazard@gmail.com",
+    "geolocation": {
+        "query": "65.49.22.66",
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "MN",
+        "regionName": "Minnesota",
+        "city": "Mound",
+        "zip": "55364",
+        "lat": 44.9366,
+        "lon": -93.6661,
+        "timezone": "America/Chicago",
+        "isp": "Hurricane Electric LLC",
+        "org": "Dana Consulting",
+        "as": "AS6939 Hurricane Electric LLC"
+    }
+},
+{
+    "ghost_id": "d3:87:c2:0b:c7:92",
+    "devices": {
+        "iPad Pro": "95:d7:14:cc:9c:31",
+        "iPad": "21:a0:a3:eb:c8:21",
+        "iPhone": "a6:97:05:d7:56:9b"
+    },
+    "username": "Christiano Ronaldo",
+    "email": "christiano@gmail.com",
+    "geolocation": {
+        "query": "209.142.68.29",
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "IL",
+        "regionName": "Illinois",
+        "city": "Chicago",
+        "zip": "60666",
+        "lat": 41.8781,
+        "lon": -87.6298,
+        "timezone": "America/Chicago",
+        "isp": "Cloudfitters",
+        "org": "Tatra Services Inc",
+        "as": "AS399139 CLOUDFITTERS-NTW-01"
+    }
+},
+{
+    "ghost_id": "19:25:65:0b:5b:e6",
+    "devices": {
+        "iPad Pro": "b2:29:37:c2:e6:a3",
+        "iPad": "ea:b9:e5:21:c1:f3",
+        "iPhone": "5f:c2:e6:eb:26:b8"
+    },
+    "username": "Alvaro Morata",
+    "email": "amorata@outlook.com",
+    "geolocation": {
+        "query": "207.228.238.7",
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "DC",
+        "regionName": "District of Columbia",
+        "city": "Washington",
+        "zip": "20068",
+        "lat": 38.9072,
+        "lon": -77.0369,
+        "timezone": "America/New_York",
+        "isp": "HopOne Internet Corporation",
+        "org": "HopOne Internet Corporation",
+        "as": "AS14361 HopOne Internet Corporation"
+    }
+},
+{
+    "ghost_id": "8c:6b:01:22:e9:3b",
+    "devices": {
+        "iPad Pro": "34:24:a4:e2:06:6d",
+        "iPad": "a7:90:4d:f6:ed:27",
+        "iPhone": "f8:f4:2f:c0:eb:ca"
+    },
+    "username": "Romelu Lukaku",
+    "email": "r.lukaku@yahoo.com",
+    "geolocation": {
+        "query": "47.94.129.116",
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "BJ",
+        "regionName": "Beijing",
+        "city": "Beijing",
+        "zip": "",
+        "lat": 39.9285,
+        "lon": 116.385,
+        "timezone": "Asia/Shanghai",
+        "isp": "Hangzhou Alibaba Advertising Co",
+        "org": "Aliyun Computing Co., LTD",
+        "as": "AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+    }
+},
+{
+    "ghost_id": "1e:2a:79:d5:3d:32",
+    "devices": {
+        "iPad Pro": "fd:52:9c:41:8a:3c",
+        "iPad": "58:90:e3:75:74:9e",
+        "iPhone": "fe:b2:68:60:db:d1"
+    },
+    "username": "N'Golo Kante",
+    "email": "kante@chelseafc.com",
+    "geolocation": {
+        "query": "47.108.182.80",
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SC",
+        "regionName": "Sichuan",
+        "city": "Chengdu",
+        "zip": "",
+        "lat": 30.6667,
+        "lon": 104.0667,
+        "timezone": "Asia/Shanghai",
+        "isp": "Hangzhou Alibaba Advertising Co",
+        "org": "Aliyun Computing Co., LTD",
+        "as": "AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+    }
+},
+{
+    "ghost_id": "f9:0c:58:cf:5f:df",
+    "devices": {
+        "iPad Pro": "76:77:ec:83:be:a3", 
+        "iPad":"26:62:2d:0d:7c:b3", 
+        "iPhone":"e5:95:f2:72:d9:36"
+    },
+    "username": "Marcos Alonso",
+    "email": "marcos@hotmail.com",
+    "geolocation": {
+        "query": "106.14.156.213",
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "SH",
+        "regionName": "Shanghai",
+        "city": "Shanghai",
+        "zip": "",
+        "lat": 31.0442,
+        "lon": 121.4054,
+        "timezone": "Asia/Shanghai",
+        "isp": "Hangzhou Alibaba Advertising Co",
+        "org": "Aliyun Computing Co., LTD",
+        "as": "AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+    }
+},
+{
+    "ghost_id": "fb:40:4b:a6:78:3a",
+    "devices": {
+        "iPad Pro": "b2:ab:d1:5c:30:12", 
+        "iPad": "24:e9:5c:b3:4f:e8", 
+        "iPhone": "ab:d6:03:40:1d:07"
+    },
+    "username": "Christian Pulisic",
+    "email": "pulisic@gmail.com",
+    "geolocation": {
+        "query": "103.159.84.142",
+        "status": "success",
+        "country": "India",
+        "countryCode": "IN",
+        "region": "GJ",
+        "regionName": "Gujarat",
+        "city": "Ahmedabad",
+        "zip": "380001",
+        "lat": 23.007,
+        "lon": 72.5191,
+        "timezone": "Asia/Kolkata",
+        "isp": "Ovi Hosting Pvt Ltd",
+        "org": "Krunalshah Software Private Limited",
+        "as": "AS141004 QTIME BUSINESSES PRIVATE LIMITED"
+    }
+},
+{
+    "ghost_id": "59:dc:ee:2c:cd:82",
+    "devices": {
+        "iPad Pro": "34:a8:66:5f:df:f5", 
+        "iPad": "fe:33:69:5e:b4:55", 
+        "iPhone":"6b:78:bd:bd:3f:29"
+    },
+    "username": "Timo Werner",
+    "email": "twerner@outlook.com",
+    "geolocation": {
+        "query": "47.119.149.69",
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "GD",
+        "regionName": "Guangdong",
+        "city": "Shenzhen",
+        "zip": "",
+        "lat": 22.5318,
+        "lon": 114.1374,
+        "timezone": "Asia/Shanghai",
+        "isp": "Addresses CNNIC",
+        "org": "Aliyun Computing Co., LTD",
+        "as": "AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+    }
+},
+{
+    "ghost_id": "8c:c5:2c:ce:02:d8",
+    "devices": {
+        "iPad Pro": "73:b1:c6:e9:a9:b2", 
+        "iPad": "ce:ba:e0:34:59:e7", 
+        "iPhone":"4f:70:6d:d0:8d:49"
+    },
+    "username": "Antonio Rudiger",
+    "email": "antonio@yahoo.com",
+    "geolocation": {
+        "query": "8.134.33.121",
+        "status": "success",
+        "country": "China",
+        "countryCode": "CN",
+        "region": "GD",
+        "regionName": "Guangdong",
+        "city": "Guangzhou",
+        "zip": "",
+        "lat": 23.1181,
+        "lon": 113.2539,
+        "timezone": "Asia/Shanghai",
+        "isp": "Hangzhou Alibaba Advertising Co.",
+        "org": "Aliyun Computing Co.",
+        "as": "AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+    }
+},
+{
+    "ghost_id": "a5:23:db:65:4c:24",
+    "devices": {
+        "iPad Pro": "1b:f5:2d:fd:a7:21", 
+        "iPad": "cd:1a:ae:ea:f0:12", 
+        "iPhone": "45:45:b9:05:47:43"
+    },
+    "username": "Tiago Silva",
+    "email": "tiago@hotmail.com",
+    "geolocation": {
+        "query": "48.151.136.76",
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NJ",
+        "regionName": "New Jersey",
+        "city": "Newark",
+        "zip": "07102",
+        "lat": 40.7369,
+        "lon": -74.172,
+        "timezone": "America/New_York",
+        "isp": "The Prudential Insurance Company of America",
+        "org": "The Prudential Insurance Company of America",
+        "as": ""
+    }
+},
+{
+    "ghost_id": "59:dc:ee:2c:cd:82",
+    "devices": {
+        "iPad Pro": "34:a8:66:5f:df:f5", 
+        "iPad": "fe:33:69:5e:b4:55", 
+        "iPhone": "6b:78:bd:bd:3f:29"
+    },
+    "username": "Edouard Mendy",
+    "email": "Mendy@yahoo.com",
+    "geolocation": {
+        "query": "24.97.255.250",
+        "status": "success",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "NY",
+        "regionName": "New York",
+        "city": "Utica",
+        "zip": "13502",
+        "lat": 43.1061,
+        "lon": -75.2336,
+        "timezone": "America/New_York",
+        "isp": "Spectrum",
+        "org": "Ameresco Energy",
+        "as": "AS11351 Charter Communications Inc"
+    }
+},
+{
+    "ghost_id": "4f:70:6d:d0:8d:49",
+    "devices": {
+        "iPad Pro": "73:b1:c6:e9:a9:b2", 
+        "iPad": "ce:ba:e0:34:59:e7", 
+        "iPhone": "4f:70:6d:d0:8d:49"
+    },
+    "username": "Hakim Ziyech",
+    "email": "ziyech@chelsefc.com",
+    "geolocation": {
+        "query": "57.0.0.0",
+        "status": "success",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "region": "ENG",
+        "regionName": "England",
+        "city": "London",
+        "zip": "W1B",
+        "lat": 51.5074,
+        "lon": -0.127758,
+        "timezone": "Europe/London",
+        "isp": "Societe Internationale de Telecommunications Aeronautiques",
+        "org": "Societe Internationale de Telecommunications Aeronautiques",
+        "as": ""
+    }
+}
+]

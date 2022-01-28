@@ -1,0 +1,131 @@
+{
+	"version": "1.2.1",
+	"ghost": {
+		"status": {
+			"mac": "88:66:5a:58:df:0e",
+			"online": true,
+			"ghost_ip": "192.168.50.6",
+			"username": "ABC", 
+			"state": "DHCP_READY",
+			"no_clients": 1,
+			"interface": "en0",
+			"dhcp_server": "192.168.50.1",
+			"subnet": "255.255.255.240",
+			"gateway": "192.168.50.1",
+			"rules": {
+				"enabled": true,
+				"interval": 30,
+				"clients": [{
+					"id": {
+						"mac": null,
+						"devices": [
+							"iphone",
+							"ipad"
+						]
+					},
+					"apps": {
+						"active": [
+							"gsuite",
+							"dropbox"
+						],
+						"inactive": [
+							"Piwik",
+							"ProProfs Chat"
+						]
+					}
+				}]
+			},
+			"nameservers": [
+				"192.168.11.1"
+			],
+			"no_pool_ips": 10,
+			"available_pool": [
+				"192.168.50.10",
+				"192.168.50.11",
+				"192.168.50.12",
+				"192.168.50.13",
+				"192.168.50.2",
+				"192.168.50.3",
+				"192.168.50.4",
+				"192.168.50.5",
+				"192.168.50.7",
+				"192.168.50.8"
+			],
+			"managed_clients": [{
+				"mac": "20f478bd14ee",
+				"leased_ip": "192.168.50.9",
+				"lease_time": 300,
+				"renewed_at": "2022-01-19T13:12:08.538889",
+				"authorized": false,
+				"user_agent": "Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 Pro MIUI/V12.5.1.0.QFHINXM)",
+				"rules": {
+					"apps": {
+						"active": [
+							"gsuite",
+							"dropbox"
+						],
+						"inactive": [
+							"Piwik",
+							"ProProfs Chat"
+						]
+					},
+					"device": {
+						"platform": {
+							"name": "iOS",
+							"version": "15.2.1"
+						},
+						"os": {
+							"name": "iOS"
+						},
+						"bot": false,
+						"dist": {
+							"name": "iPhone",
+							"version": "15.2.1"
+						}
+					}
+
+				}
+			}],
+			"pub_ip_addr": "122.176.24.52",
+			"whois": {
+				"status": "success",
+				"asn": "AS24560 Bharti Airtel Ltd., Telemedia Services",
+				"city": "Kolkata",
+				"country": "India",
+				"countryCode": "IN",
+				"isp": "Bharti Airtel",
+				"lat": "22.518",
+				"lon": "88.3832",
+				"org": "Bharti Telenet Ltd.",
+				"region": "WB",
+				"regionName": "West Bengal",
+				"timezone": "Asia/Kolkata",
+				"zip": "700015"
+			}
+		},
+		"dhcp_proxy": {
+			"dhcp_client": {
+				"pool": [
+					"192.168.50.10",
+					"192.168.50.11",
+					"192.168.50.12",
+					"192.168.50.13",
+					"192.168.50.2",
+					"192.168.50.3",
+					"192.168.50.4",
+					"192.168.50.5",
+					"192.168.50.7",
+					"192.168.50.8"
+				],
+				"lease": [
+					"192.168.50.9"
+				]
+			}
+		},
+		"events": [{
+			"anomaly": "Heartbeat received",
+			"severity": "info",
+			"timestamp": "2022-01-19T13:13:35.947924"
+		}]
+	}
+}
